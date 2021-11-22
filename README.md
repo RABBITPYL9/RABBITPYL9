@@ -1,17 +1,14 @@
 - 👋 Привет! Меня зовут Сергей и я QA Инженер. Интересна автоматизация тестирования web-интерфейсов.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <h3>Мои пройденные курсы</h3>
 
 <ul> 
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/robot_1f916.png" width="20" alt="new" /> Курс основы разработки на python от pumpskill.ru</b><br/>
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/robot_1f916.png" width="20" alt="new" /> Автоматизация тестирования REST API на Python </b></a><br/>
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/robot_1f916.png" width="20" alt="new" /> Курс по ручному тестированию веб-приложений от Be-tester </b>
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/robot_1f916.png" width="20" alt="new" /> Курс по основам автоматизации тестирования с selenium webdriver(python) от Be-Tester </b>
-<li><b>📫 1234</b></li>
+  <li><b>🌱 Курс основы разработки на python от pumpskill.ru</b><br/>
+  <li><b>👀 Автоматизация тестирования REST API на Python </b></a><br/>
+  <li><b>✔️ Курс по ручному тестированию веб-приложений от Be-tester </b>
+  <li><b>❤️ Курс по основам автоматизации тестирования с selenium webdriver(python) от Be-Tester </b>
+<li><b>📫 Курс по основам автоматизации тестирования с selenium webdriver(python) от Be-Tester</b></li>
 </ul>
 
 <!---
