@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 🛠 <h3>Stack</h3>
 <ul>
-<li>💻 Tech:   Python | REST | SQL | HTML<
+<li>💻 Tech:   Python | REST | SQL | HTML
 <li>🔧 Tools:  Selenium WebDriver | Allure | Selenoid | Jenkins | GIT | Docker
 <li>🔨 Responsibilities:   Component Testing | APIs Testing | UI end2end Testing | Load Testing | CI/CD | Test Reports
 </ul>
