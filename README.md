@@ -24,7 +24,7 @@ RABBITPYL9/RABBITPYL9 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3>Stack</h3>
+<h3>Stack</h3>:
 <ul>
 <li>💻 Tech:   Python | REST | SQL | HTML
 <li>🔧 Tools:  Selenium WebDriver | Allure | Selenoid | Jenkins | GIT | Docker | Postman
