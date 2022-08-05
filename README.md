@@ -1,7 +1,7 @@
 - 👋 Привет! Меня зовут Сергей и я Full-Stack QA Инженер. Интересна автоматизация тестирования web-интерфейсов.
 
 
-<h3>Мои пройденные курсы</h3>
+<h3>Мои пройденные курсы:</h3>
 
 <ul> 
   <li><b>🌱 Курс основы разработки на python от pumpskill.ru</b><br/>
@@ -24,8 +24,7 @@ RABBITPYL9/RABBITPYL9 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-
-🛠 <h3>Stack</h3>
+<h3>Stack</h3>
 <ul>
 <li>💻 Tech:   Python | REST | SQL | HTML
 <li>🔧 Tools:  Selenium WebDriver | Allure | Selenoid | Jenkins | GIT | Docker
