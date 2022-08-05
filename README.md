@@ -23,3 +23,9 @@
 RABBITPYL9/RABBITPYL9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+🛠 Stack
+💻 Tech:   Python | REST | SQL
+🔧 Tools:  Selenium WebDriver | Allure | Selenoid | TeamCity | Jenkins | GIT | Docker
+🔨 Responsibilities:   Component Testing | APIs Testing | UI end2end Testing | Load Testing | CI/CD | Test Reports
